@@ -32,6 +32,10 @@ main{
     font-size: 24px;
     font-weight: 600;
     padding: 16px 48px;
+    transition: background .1s;
+}
+.adicionar-atividade:hover{
+    background-color: #90B6CC;
 }
 .voltar{
     height: 80px;
